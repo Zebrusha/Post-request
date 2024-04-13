@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "type": "array",
+  "default": [],
+  "Accounts": {
+    "people": [
+      {
+        "name": "Anton",
+        "age": 30
+      },
+      {
+        "name": "Ivan",
+        "age": 29
+      },
+      {
+        "name": "Kiril",
+        "age": 28
+      }
+    ],
+    "garden": {
+      "area": 150
+    }
+  }
+}
